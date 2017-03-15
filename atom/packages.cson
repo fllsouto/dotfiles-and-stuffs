@@ -1,0 +1,16 @@
+packages: [
+  "file-icons"
+  "git-plus"
+  "highlight-line"
+  "highlight-selected"
+  "keyboard-scroll"
+  "language-latex"
+  "markdown-pdf"
+  "markdown-scroll-sync"
+  "markdown-writer"
+  "minimap"
+  "minimap-highlight-selected"
+  "package-sync"
+  "Pompomodoro"
+  "ruby-block"
+]

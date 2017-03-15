@@ -1,0 +1,27 @@
+"*":
+  core:
+    packagesWithKeymapsDisabled: []
+    themes: [
+      "atom-dark-ui"
+      "one-dark-syntax"
+    ]
+  "exception-reporting":
+    userId: "71dabcbe-e230-5721-d0e8-5729a4940fd9"
+  "git-plus":
+    general:
+      _analyticsUserId: "c1fec732-fc01-4b5e-bcba-b515d4426ea9"
+  "highlight-line": {}
+  "highlight-selected":
+    hideHighlightOnSelectedWord: true
+    highlightBackground: true
+    ignoreCase: true
+    lightTheme: true
+    onlyHighlightWholeWords: false
+  "markdown-preview":
+    useGitHubStyle: true
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+  editor:
+    softWrap: true
